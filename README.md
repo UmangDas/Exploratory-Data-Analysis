@@ -65,7 +65,3 @@ Once executed, the script will generate various charts and summary statistics. T
 ## Conclusion
 This project serves as a foundation for **Exploratory Data Analysis (EDA)**, which is a critical step in understanding and preparing data for further analysis or machine learning. By leveraging Python’s powerful libraries, this project enables users to make data-driven decisions efficiently.
 
----
-
-### Author
-Your Name
